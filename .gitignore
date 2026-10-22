@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.env.*
+private/
+evidence/raw/
+evidence/unredacted/
